@@ -1,0 +1,73 @@
+.site-nav ul {
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+  boarder-top: 1px, black;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-color: silver;
+  border-style: solid none solid none;
+}
+
+.site-nav a {
+  text-decoration: none;
+  list-type: none;
+  color: black;
+  padding: 30px;
+  margin: 20px;
+}
+
+#zim-name {
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+
+#zim-image {
+  display: flex;
+  height: 150px;
+  margin-right: auto;
+}
+
+#job-title {
+  display: flex;
+  justify-content: center;
+  color: silver;
+  text-transform: uppercase;
+}
+
+#about-me {
+  display: flex;
+}
+
+.standard-p {
+  padding: 20px;
+}
+
+#contact {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.footer ul {
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+  boarder-top: 1px, black;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-color: silver;
+  border-style: solid none none none;
+}
+
+.footer a {
+  text-decoration: none;
+  list-type: none;
+  color: grey;
+  padding: 20px;
+  margin: 10px;
+  display: inline-block;
+}
